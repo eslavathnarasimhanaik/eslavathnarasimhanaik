@@ -46,7 +46,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
   - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@narasimhanaikai) to listen to my work.
   - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
   - Connect with me on [Eslavath Narasimha Naik - Extrape](https://www.extrape.com/invite/W2OD9).
-  - Manage posts and drafts directly on my [Eslavath Narasimha Naik - Blogger Profile](https://www.blogger.com/profile/13813955681650389366).
+  - Manage posts and drafts directly on my [Eslavath Narasimha Naik - Blogger Profile](https://www.blogger.com/profile/14939153609835552652).
 
 ---
 
@@ -59,7 +59,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@narasimhanaikai)
 - **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
 - **Extrape**: [Eslavath Narasimha Naik on Extrape](https://www.extrape.com/invite/W2OD9)
-- **Blogger**: [Eslavath Narasimha Naik on Blogger](https://www.blogger.com/profile/13813955681650389366)
+- **Blogger**: [Eslavath Narasimha Naik on Blogger](https://www.blogger.com/profile/14939153609835552652)
 
 ---
 
@@ -149,7 +149,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://pin.it/3a1TVvPTx",
         "https://pin.it/7qYe90FF0",
         "https://www.extrape.com/invite/W2OD9",
-        "https://www.blogger.com/profile/13813955681650389366",
+        "https://www.blogger.com/profile/14939153609835552652",
         "https://naikaa.me/"
       ],
       "knowsAbout": ["Java Backend Development", "Spring Boot", "React.js", "Web Design", "Database Management"],
@@ -234,10 +234,10 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         },
         {
           "@type": "BlogPosting",
-          "@id": "https://www.blogger.com/profile/13813955681650389366#blogger",
+          "@id": "https://www.blogger.com/profile/14939153609835552652#blogger",
           "name": "ESLAVATH NARASIMHA NAIK - Blogger Profile & Technical Blog",
           "headline": "Software Development, Career Insights, and Technology Updates",
-          "url": "https://www.blogger.com/profile/13813955681650389366",
+          "url": "https://www.blogger.com/profile/14939153609835552652",
           "datePublished": "2026-01-01T00:00:00Z"
         }
       ]
