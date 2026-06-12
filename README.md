@@ -74,6 +74,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
 <!-- HTML Meta tags for Search Engines (GSC Verification, GEO Tags, Canonical) -->
 <!--
 <meta name="google-site-verification" content="FW7rcxi_mwc3X5nxhlJqMHrgi2c0XjySaZqLthbYjjE" />
+<meta name="google-site-verification" content="FW7rcxi_mwc3X5nxhlJqMHrgi2c0XjySaZqLthbYjjE" />
 <meta name="google-site-verification" content="ad5xSF75uh-eU1Bq95IE2SqvErlO_qvwZWoad6x56-o" />
 <meta name="geo.region" content="IN-TG" />
 <meta name="geo.placename" content="Kothagudem" />
