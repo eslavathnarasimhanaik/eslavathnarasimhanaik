@@ -59,7 +59,6 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
   - Connect with me on [Eslavath Narasimha Naik - X (Twitter)](https://x.com/eslavathnarasimhanaik).
   - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@eslavathnarasimhanaik-q1x) to listen to my work.
   - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
-  - Connect with me on [Eslavath Narasimha Naik - Extrape](https://www.extrape.com/invite/W2OD9).
   - Read my technical articles on my [Eslavath Narasimha Naik - Blogger Website](https://eslavathnarasimhanaik.blogspot.com/).
 
 ---
@@ -72,7 +71,6 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **X (Twitter)**: [Eslavath Narasimha Naik on X (Twitter)](https://x.com/eslavathnarasimhanaik)
 - **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@eslavathnarasimhanaik-q1x)
 - **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
-- **Extrape**: [Eslavath Narasimha Naik on Extrape](https://www.extrape.com/invite/W2OD9)
 - **Blogger**: [Eslavath Narasimha Naik Blog](https://eslavathnarasimhanaik.blogspot.com/)
 
 ---
@@ -123,7 +121,6 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "eslavathnarasimhanaik X",
         "eslavathnarasimhanaik YouTube",
         "eslavathnarasimhanaik Pinterest",
-        "eslavathnarasimhanaik Extrape",
         "eslavathnarasimhanaik Blogger",
         "NAIK LinkedIn",
         "NAIK GitHub",
@@ -132,7 +129,6 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "NAIK X",
         "NAIK YouTube",
         "NAIK Pinterest",
-        "NAIK Extrape",
         "NAIK Blogger",
         "Eslavath Narasimha Naik LinkedIn",
         "Eslavath Narasimha Naik GitHub",
@@ -193,7 +189,6 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://x.com/eslavathnarasimhanaik",
         "https://www.youtube.com/@eslavathnarasimhanaik-q1x",
         "https://in.pinterest.com/eslavathnarasimhanaik/",
-        "https://www.extrape.com/invite/W2OD9",
         "https://eslavathnarasimhanaik.blogspot.com/",
         "https://naikaa.me/"
       ],
@@ -269,13 +264,6 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
           "description": "Creative visual collections, boards, and design pins.",
           "url": "https://in.pinterest.com/eslavathnarasimhanaik/",
           "thumbnailUrl": "https://avatars.githubusercontent.com/u/164381248?v=4"
-        },
-        {
-          "@type": "WebPage",
-          "@id": "https://www.extrape.com/invite/W2OD9#referral",
-          "name": "ESLAVATH NARASIMHA NAIK - Extrape Invite & Referral Profile",
-          "description": "Official networking invite and referral board for community rewards.",
-          "url": "https://www.extrape.com/invite/W2OD9"
         },
         {
           "@type": "BlogPosting",
