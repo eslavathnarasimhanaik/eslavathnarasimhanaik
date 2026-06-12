@@ -46,7 +46,6 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
   - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@eslavathnarasimhanaik-q1x) to listen to my work.
   - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
   - Connect with me on [Eslavath Narasimha Naik - Extrape](https://www.extrape.com/invite/W2OD9).
-  - Manage posts and drafts directly on my [Eslavath Narasimha Naik - Blogger Profile](https://www.blogger.com/profile/14939153609835552652).
   - Read my technical articles on my [Eslavath Narasimha Naik - Blogger Website](https://eslavathnarasimhanaik.blogspot.com/).
 
 ---
@@ -60,7 +59,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@eslavathnarasimhanaik-q1x)
 - **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
 - **Extrape**: [Eslavath Narasimha Naik on Extrape](https://www.extrape.com/invite/W2OD9)
-- **Blogger**: [Eslavath Narasimha Naik on Blogger](https://www.blogger.com/profile/14939153609835552652) / [Blogger Website](https://eslavathnarasimhanaik.blogspot.com/)
+- **Blogger**: [Eslavath Narasimha Naik Blog](https://eslavathnarasimhanaik.blogspot.com/)
 
 ---
 
@@ -142,15 +141,10 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://github.com/eslavathnarasimhanaik",
         "https://www.instagram.com/narasimhanaik.ai",
         "https://www.facebook.com/narasimhanaik993/",
-        "https://www.facebook.com/share/1CetPmAHFV/",
         "https://x.com/eslavathnarasimhanaik",
         "https://www.youtube.com/@eslavathnarasimhanaik-q1x",
-        "https://youtube.com/@eslavathnarasimhanaik-q1x?si=QQ0VtKhpcuvbwyEr",
         "https://in.pinterest.com/eslavathnarasimhanaik/",
-        "https://pin.it/3a1TVvPTx",
-        "https://pin.it/7qYe90FF0",
         "https://www.extrape.com/invite/W2OD9",
-        "https://www.blogger.com/profile/14939153609835552652",
         "https://eslavathnarasimhanaik.blogspot.com/",
         "https://naikaa.me/"
       ],
