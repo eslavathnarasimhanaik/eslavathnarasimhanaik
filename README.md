@@ -14,6 +14,20 @@ Here are some of my active live web applications:
 
 ---
 
+## 🏫 Academic Profile Slip & Batch Details
+Here is my active educational timeline and geographical coordinates:
+
+| Academic Level | Institution / Details | Location / Region |
+| :--- | :--- | :--- |
+| **B.Tech (CSE)** <br> *(2023 - 2027 Batch)* | **Malla Reddy College of Engineering & Technology (MRCET)** <br> Branch: CSE \| Age: 22 \| Category: ST | Hyderabad, Telangana <br> `IN-TG` |
+| **Intermediate** | **Sri Chaitanya Junior College, Khammam** | Khammam, Telangana |
+| **Schooling** | **Dr. K.K.R's Gowtham International School, Gudavalli** | Gudavalli, Andhra Pradesh |
+
+📍 **Permanent Location:** Sarvaram, Kothagudem, Telangana (507120)  
+🎯 **GEO Coordinates:** `17.554019; 80.617638` (ICBM)
+
+---
+
 ## 🛠️ Skills & Technologies
 - **Backend**: Java, Spring Boot, REST APIs, Database Management
 - **Frontend**: HTML5, CSS3, JavaScript, Responsive Web Design
@@ -138,6 +152,39 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "addressRegion": "Telangana",
         "addressCountry": "India"
       },
+      "alumniOf": [
+        {
+          "@type": "EducationalOrganization",
+          "name": "Malla Reddy College of Engineering and Technology (MRCET)",
+          "url": "https://mrcet.com",
+          "location": {
+            "@type": "PostalAddress",
+            "addressLocality": "Hyderabad",
+            "addressRegion": "Telangana",
+            "addressCountry": "India"
+          }
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Sri Chaitanya Junior College, Khammam",
+          "location": {
+            "@type": "PostalAddress",
+            "addressLocality": "Khammam",
+            "addressRegion": "Telangana",
+            "addressCountry": "India"
+          }
+        },
+        {
+          "@type": "EducationalOrganization",
+          "name": "Dr. K.K.R's Gowtham International School, Gudavalli",
+          "location": {
+            "@type": "PostalAddress",
+            "addressLocality": "Gudavalli",
+            "addressRegion": "Andhra Pradesh",
+            "addressCountry": "India"
+          }
+        }
+      ],
       "sameAs": [
         "https://www.linkedin.com/in/eslavathnarasimhanaik",
         "https://github.com/eslavathnarasimhanaik",
