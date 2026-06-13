@@ -56,7 +56,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
   - Review my code contributions directly on [Eslavath Narasimha Naik - GitHub](https://github.com/eslavathnarasimhanaik).
   - Follow my updates on [Eslavath Narasimha Naik - Instagram](https://www.instagram.com/narasimhanaik.ai).
   - Connect with me on [Eslavath Narasimha Naik - Facebook](https://www.facebook.com/narasimhanaik993/).
-  - Connect with me on [Eslavath Narasimha Naik - X (Twitter)](https://x.com/eslavathnarasimhanaik).
+  - Connect with me on [Eslavath Narasimha Naik - X (Twitter)](https://x.com/NAIKAA9).
   - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@eslavathnarasimhanaik-q1x) to listen to my work.
   - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
   - Read my technical articles on my [Eslavath Narasimha Naik - Blogger Website](https://eslavathnarasimhanaik.blogspot.com/).
@@ -68,7 +68,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **GitHub**: [Eslavath Narasimha Naik on GitHub](https://github.com/eslavathnarasimhanaik)
 - **Instagram**: [Eslavath Narasimha Naik on Instagram](https://www.instagram.com/narasimhanaik.ai)
 - **Facebook**: [Eslavath Narasimha Naik on Facebook](https://www.facebook.com/narasimhanaik993/)
-- **X (Twitter)**: [Eslavath Narasimha Naik on X (Twitter)](https://x.com/eslavathnarasimhanaik)
+- **X (Twitter)**: [Eslavath Narasimha Naik on X (Twitter)](https://x.com/NAIKAA9)
 - **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@eslavathnarasimhanaik-q1x)
 - **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
 - **Blogger**: [Eslavath Narasimha Naik Blog](https://eslavathnarasimhanaik.blogspot.com/)
@@ -186,7 +186,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://github.com/eslavathnarasimhanaik",
         "https://www.instagram.com/narasimhanaik.ai",
         "https://www.facebook.com/narasimhanaik993/",
-        "https://x.com/eslavathnarasimhanaik",
+        "https://x.com/NAIKAA9",
         "https://www.youtube.com/@eslavathnarasimhanaik-q1x",
         "https://in.pinterest.com/eslavathnarasimhanaik/",
         "https://eslavathnarasimhanaik.blogspot.com/",
@@ -238,10 +238,10 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         },
         {
           "@type": "SocialMediaPosting",
-          "@id": "https://x.com/eslavathnarasimhanaik#post",
+          "@id": "https://x.com/NAIKAA9#post",
           "name": "ESLAVATH NARASIMHA NAIK - X (Twitter) Developer Micro-posts",
           "description": "Tech updates, coding insights, and micro-blogging on X.",
-          "url": "https://x.com/eslavathnarasimhanaik",
+          "url": "https://x.com/NAIKAA9",
           "publisher": {
             "@type": "Organization",
             "name": "X (Twitter)",
