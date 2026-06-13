@@ -79,7 +79,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Google, Bing) index my professional profile:
 - **Full Legal Name**: Eslavath Narasimha Naik
 - **Professional Title**: Full-Stack Software Developer & Java Specialist
-- **Alias / Handles**: @eslavathnarasimhanaik, NAIKAA, Narasimha Naik, @eslavathnarasimhanaik-q1x
+- **Alias / Handles**: @eslavathnarasimhanaik, narasimhanaik, eslavath narasimha naik, eslavath narasimha, eslavath naik, NAIKAA9, narasimhanaik993, narasimhanaik.ai, @eslavathnarasimhanaik-q1x, NAIKAA, Narasimha Naik
 - **Primary Locations**: Kothagudem, Bhadradri Kothagudem, Telangana, India
 - **Core Competencies**: Java Backend, Spring Boot REST APIs, Web App Development, Database Design (MongoDB, SQL)
 
@@ -106,12 +106,17 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
       "@id": "https://eslavathnarasimhanaik.github.io/#person",
       "name": "Eslavath Narasimha Naik",
       "alternateName": [
-        "eslavathnarasimhanaik", 
-        "NAIKAA", 
-        "Narasimha Naik", 
-        "ESLAVATH NARASIMHA NAIK", 
-        "narasimhanaik.ai", 
+        "eslavathnarasimhanaik",
+        "narasimhanaik",
+        "eslavath narasimha naik",
+        "eslavath narasimha",
+        "eslavath naik",
+        "NAIKAA9",
+        "narasimhanaik993",
+        "narasimhanaik.ai",
         "eslavathnarasimhanaik-q1x",
+        "NAIKAA",
+        "Narasimha Naik",
         "eslavathnarasimhanaik LinkedIn",
         "eslavathnarasimhanaik GitHub",
         "eslavathnarasimhanaik Instagram",
