@@ -1,11 +1,20 @@
 # 👋 Hi there, I'm Eslavath Narasimha Naik! (@eslavathnarasimhanaik)
 
-Welcome to my GitHub profile! I am an **AI Creator & Full-Stack Developer** specializing in Java, Spring Boot, and React.js, dedicated to building AI products, SaaS, and startups.
+Welcome to my GitHub profile! I am an **AI Creator & Full-Stack Developer** specializing in Java, Spring Boot, React.js, REST APIs, and OpenAI integrations. Building AI products, SaaS applications, and automation solutions.
+
+🏆 **OpenAI × Outskill AI Builders Hackathon**
+- **Project:** [DukaanAI](https://succinct-smart-dukaan-flow.base44.app/) (AI-Powered Business Assistant)
+- **Score:** 88/100
+- **Usefulness:** 25/25
+- **Creativity:** 20/20
+- **Technical Execution:** 22/25
+- **Presentation:** 10/10
 
 ---
 
 ## 🚀 Live Projects Showcase
 Here are some of my active live web applications:
+- 🤖 **[DukaanAI](https://succinct-smart-dukaan-flow.base44.app/)** — AI-powered retail business assistant with natural-language database query parsing.
 - 📅 **[NAIK Study Tracker](https://eslavathnarasimhanaik.github.io/attendance/)** — An interactive 90-day consistency tracker for IBPS SO and Java study schedules.
 - 💸 **[Loonemi (Loan EMI Calculator)](https://naikaa.me)** — A sleek dashboard for calculating loan interest and monthly payments.
 - ☀️ **[SolarOne Project](https://eslavathnarasimhanaik.github.io/SOLARONEPROJECT/)** — A digital layout and interface resource dashboard for solar energy systems.
@@ -14,24 +23,21 @@ Here are some of my active live web applications:
 
 ---
 
-## 🏫 Academic Profile Slip & Batch Details
-Here is my active educational timeline and geographical coordinates:
-
-| Academic Level | Institution / Details | Location / Region |
-| :--- | :--- | :--- |
-| **B.Tech (CSE)** <br> *(2023 - 2027 Batch)* | **Malla Reddy College of Engineering & Technology (MRCET)** <br> Branch: CSE \| Age: 22 \| Category: ST | Hyderabad, Telangana <br> `IN-TG` |
-| **Intermediate** | **Sri Chaitanya Junior College, Khammam** | Khammam, Telangana |
-| **Schooling** | **Dr. K.K.R's Gowtham International School, Gudavalli** | Gudavalli, Andhra Pradesh |
-
-📍 **Permanent Location:** Sarvaram, Kothagudem, Telangana (507120)  
-🎯 **GEO Coordinates:** `17.554019; 80.617638` (ICBM)
+## 🏫 Education
+- **Institution:** Malla Reddy College of Engineering and Technology (MRCET)
+- **Degree:** B.Tech in Computer Science & Engineering
+- **Timeline:** 2023 – 2027
 
 ---
 
 ## 🛠️ Skills & Technologies
-- **Backend**: Java, Spring Boot, REST APIs, Database Management
-- **Frontend**: HTML5, CSS3, JavaScript, Responsive Web Design
-- **Tools**: Git, GitHub Actions, Vercel
+- **Frontend**: React.js
+- **Backend**: Java, Spring Boot
+- **API Development**: REST APIs
+- **Database**: MySQL, MongoDB
+- **Deployment**: Vercel, GitHub Pages
+- **Version Control**: Git, GitHub
+- **AI Integration**: OpenAI API
 
 ---
 
@@ -44,12 +50,14 @@ Here is my active educational timeline and geographical coordinates:
 ---
 
 ## 💼 Open to Opportunities (Hire Me!)
-I am actively seeking **Software Developer** & **Java Backend Developer** roles. If you are a recruiter or hiring manager looking for a passionate developer who builds clean, scalable backend systems and responsive frontends, let's talk!
+I am actively seeking:
+- 🚀 **Software Engineering Internships**
+- ☕ **Java Backend Developer Roles**
+- 💻 **Full-Stack Developer Opportunities**
+- 🤖 **AI Engineer Internships**
 
-- **Core Expertise**:
-  - ☕ **Backend**: Java, Spring Boot, REST APIs, Database Design (MongoDB, SQL)
-  - 💻 **Frontend**: HTML5, CSS3, JavaScript, Responsive Web Design, React.js
-  - ⚙️ **Workflow**: Git, GitHub Actions, Vercel deployment
+If you are a recruiter or hiring manager looking for a passionate developer who builds clean, scalable backend systems and responsive frontends, let's talk!
+
 - **Availability**: Open to Remote, Hybrid, or Relocation opportunities.
 - **Fast Connect**:
   - Connect with me on [Eslavath Narasimha Naik - LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik) to discuss job opportunities.
@@ -78,10 +86,10 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 ## 🔍 Search & AI Engine Entity Reference (SEO/GEO/AEO)
 To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Google, Bing) index my professional profile:
 - **Full Legal Name**: Eslavath Narasimha Naik
-- **Professional Title**: AI Creator | 💻 Full-Stack Developer (Java, Spring Boot, React.js) | 🤖 Building AI Products, SaaS & Startups
+- **Professional Title**: AI Engineer | Java Backend Developer | Full-Stack Developer
 - **Alias / Handles**: @eslavathnarasimhanaik, narasimhanaik, eslavath narasimha naik, eslavath narasimha, eslavath naik, naikcreator, narasimhanaik.ai, @narasimhanaikai, NAIKAA, Narasimha Naik
 - **Primary Locations**: Kothagudem, Bhadradri Kothagudem, Telangana, India
-- **Core Competencies**: Java Backend, Spring Boot REST APIs, Web App Development, Database Design (MongoDB, SQL)
+- **Core Competencies**: Java Backend Development, Spring Boot, REST API Development, React.js Frontend Development, MySQL & MongoDB, OpenAI API Integration, AI Product Development, Git & GitHub, Deployment & Hosting, SaaS Development, GitHub Pages Portfolio
 
 <!-- HTML Meta tags for Search Engines (GSC Verification, GEO Tags, Canonical) -->
 <!--
@@ -142,7 +150,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "Eslavath Narasimha Naik Pinterest",
         "Eslavath Narasimha Naik Blogger"
       ],
-      "jobTitle": "AI Creator & Full-Stack Developer",
+      "jobTitle": "AI Engineer & Full-Stack Developer",
       "url": "https://eslavathnarasimhanaik.github.io",
       "image": "https://avatars.githubusercontent.com/u/164381248?v=4",
       "address": {
@@ -195,8 +203,8 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://eslavathnarasimhanaik.blogspot.com/",
         "https://naikaa.me/"
       ],
-      "knowsAbout": ["Java Backend Development", "Spring Boot", "React.js", "Web Design", "Database Management"],
-      "description": "AI Creator & Full-Stack Developer specializing in Java, Spring Boot, React.js, and dedicated to building AI products, SaaS, and startups. Creator of Loonemi, NAIK Study Tracker, and Smart Parking Dashboard.",
+      "knowsAbout": ["Java Backend Development", "Spring Boot", "REST API Development", "React.js Frontend Development", "MySQL & MongoDB", "OpenAI API Integration", "AI Product Development", "Git & GitHub", "Deployment & Hosting", "SaaS Development"],
+      "description": "AI Engineer, Java Backend Developer, and Full-Stack Developer specializing in Java, Spring Boot, React.js, and OpenAI integrations. Creator of DukaanAI, Loonemi, NAIK Study Tracker, and Smart Parking Dashboard.",
       "subjectOf": [
         {
           "@type": "SocialMediaPosting",
