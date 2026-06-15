@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Eslavath Narasimha Naik! (@eslavathnarasimhanaik)
 
-Welcome to my GitHub profile! I am a passionate **Software Developer** focused on Java Backend Development, Web Design, and building smart web applications.
+Welcome to my GitHub profile! I am an **AI Creator & Full-Stack Developer** specializing in Java, Spring Boot, and React.js, dedicated to building AI products, SaaS, and startups.
 
 ---
 
@@ -78,7 +78,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 ## 🔍 Search & AI Engine Entity Reference (SEO/GEO/AEO)
 To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Google, Bing) index my professional profile:
 - **Full Legal Name**: Eslavath Narasimha Naik
-- **Professional Title**: Full-Stack Software Developer & Java Specialist
+- **Professional Title**: AI Creator | 💻 Full-Stack Developer (Java, Spring Boot, React.js) | 🤖 Building AI Products, SaaS & Startups
 - **Alias / Handles**: @eslavathnarasimhanaik, narasimhanaik, eslavath narasimha naik, eslavath narasimha, eslavath naik, naikcreator, narasimhanaik.ai, @narasimhanaikai, NAIKAA, Narasimha Naik
 - **Primary Locations**: Kothagudem, Bhadradri Kothagudem, Telangana, India
 - **Core Competencies**: Java Backend, Spring Boot REST APIs, Web App Development, Database Design (MongoDB, SQL)
@@ -142,7 +142,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "Eslavath Narasimha Naik Pinterest",
         "Eslavath Narasimha Naik Blogger"
       ],
-      "jobTitle": "Full-Stack Software Developer",
+      "jobTitle": "AI Creator & Full-Stack Developer",
       "url": "https://eslavathnarasimhanaik.github.io",
       "image": "https://avatars.githubusercontent.com/u/164381248?v=4",
       "address": {
@@ -196,7 +196,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://naikaa.me/"
       ],
       "knowsAbout": ["Java Backend Development", "Spring Boot", "React.js", "Web Design", "Database Management"],
-      "description": "Passionate Software Developer focused on Java Backend Development (Spring Boot), modern Web Design, and smart web applications. Developer of Loonemi, NAIK Study Tracker, and Smart Parking Dashboard.",
+      "description": "AI Creator & Full-Stack Developer specializing in Java, Spring Boot, React.js, and dedicated to building AI products, SaaS, and startups. Creator of Loonemi, NAIK Study Tracker, and Smart Parking Dashboard.",
       "subjectOf": [
         {
           "@type": "SocialMediaPosting",
