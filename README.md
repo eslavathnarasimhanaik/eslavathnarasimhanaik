@@ -43,8 +43,12 @@ Here are some of my active live web applications:
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eslavathnarasimhanaik&theme=radical" alt="Eslavath Narasimha Naik's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eslavathnarasimhanaik&theme=radical" alt="Eslavath Narasimha Naik's Top Languages" />
+  <a href="https://github.com/eslavathnarasimhanaik">
+    <img src="https://github-readme-stats.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=radical&count_private=true" alt="Eslavath Narasimha Naik's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/eslavathnarasimhanaik">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslavathnarasimhanaik&layout=compact&theme=radical&langs_count=6" alt="Eslavath Narasimha Naik's Top Languages" height="180" />
+  </a>
 </p>
 
 ---
