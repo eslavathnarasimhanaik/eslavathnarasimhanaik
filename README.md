@@ -54,8 +54,8 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **Fast Connect**:
   - Connect with me on [Eslavath Narasimha Naik - LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik) to discuss job opportunities.
   - Review my code contributions directly on [Eslavath Narasimha Naik - GitHub](https://github.com/eslavathnarasimhanaik).
-  - Follow my updates on [Eslavath Narasimha Naik - Instagram](https://www.instagram.com/narasimhanaik.ai).
-  - Connect with me on [Eslavath Narasimha Naik - Facebook](https://www.facebook.com/eslavathnarasimhanaik/).
+  - Connect with me on [Eslavath Narasimha Naik - Instagram](https://www.instagram.com/narasimhanaik.ai).
+  - Connect with me on [Eslavath Narasimha Naik - Facebook](https://www.facebook.com/eslavathnarasimhanaik).
   - Connect with me on [Eslavath Narasimha Naik - X (Twitter)](https://x.com/naikcreator).
   - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@narasimhanaikai) to listen to my work.
   - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
@@ -67,7 +67,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 - **LinkedIn**: [Eslavath Narasimha Naik on LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik)
 - **GitHub**: [Eslavath Narasimha Naik on GitHub](https://github.com/eslavathnarasimhanaik)
 - **Instagram**: [Eslavath Narasimha Naik on Instagram](https://www.instagram.com/narasimhanaik.ai)
-- **Facebook**: [Eslavath Narasimha Naik on Facebook](https://www.facebook.com/eslavathnarasimhanaik/)
+- **Facebook**: [Eslavath Narasimha Naik on Facebook](https://www.facebook.com/eslavathnarasimhanaik)
 - **X (Twitter)**: [Eslavath Narasimha Naik on X (Twitter)](https://x.com/naikcreator)
 - **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@narasimhanaikai)
 - **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
@@ -79,7 +79,7 @@ I am actively seeking **Software Developer** & **Java Backend Developer** roles.
 To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Google, Bing) index my professional profile:
 - **Full Legal Name**: Eslavath Narasimha Naik
 - **Professional Title**: Full-Stack Software Developer & Java Specialist
-- **Alias / Handles**: @eslavathnarasimhanaik, narasimhanaik, eslavath narasimha naik, eslavath narasimha, eslavath naik, naikcreator, eslavathnarasimhanaik, narasimhanaik.ai, @narasimhanaikai, NAIKAA, Narasimha Naik
+- **Alias / Handles**: @eslavathnarasimhanaik, narasimhanaik, eslavath narasimha naik, eslavath narasimha, eslavath naik, naikcreator, narasimhanaik.ai, @narasimhanaikai, NAIKAA, Narasimha Naik
 - **Primary Locations**: Kothagudem, Bhadradri Kothagudem, Telangana, India
 - **Core Competencies**: Java Backend, Spring Boot REST APIs, Web App Development, Database Design (MongoDB, SQL)
 
@@ -188,7 +188,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         "https://www.linkedin.com/in/eslavathnarasimhanaik",
         "https://github.com/eslavathnarasimhanaik",
         "https://www.instagram.com/narasimhanaik.ai",
-        "https://www.facebook.com/eslavathnarasimhanaik/",
+        "https://www.facebook.com/eslavathnarasimhanaik",
         "https://x.com/naikcreator",
         "https://www.youtube.com/@narasimhanaikai",
         "https://in.pinterest.com/eslavathnarasimhanaik/",
@@ -229,10 +229,10 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
         },
         {
           "@type": "SocialMediaPosting",
-          "@id": "https://www.facebook.com/eslavathnarasimhanaik/#post",
+          "@id": "https://www.facebook.com/eslavathnarasimhanaik#post",
           "name": "ESLAVATH NARASIMHA NAIK - Facebook Social Updates",
           "description": "Public social updates and developer community interaction.",
-          "url": "https://www.facebook.com/eslavathnarasimhanaik/",
+          "url": "https://www.facebook.com/eslavathnarasimhanaik",
           "publisher": {
             "@type": "Organization",
             "name": "Facebook",
